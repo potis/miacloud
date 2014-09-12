@@ -1,0 +1,9 @@
+pip# Packages at pypi.python.org for use in this project.
+# Install with `pip install -r requirements.txt`.
+Flask
+six
+Flask-Login
+Flask-Script
+numpy
+Flask-Mail
+Flask-HTTPAuth
